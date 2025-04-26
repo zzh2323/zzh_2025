@@ -1,0 +1,15 @@
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\FingerServices.dll
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\FingerServices.pdb
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\IFingerPrint.dll
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\libzkfpcsharp.dll
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\IFingerPrint.pdb
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\obj\Debug\FingerServices.csproj.AssemblyReference.cache
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\obj\Debug\FingerServices.csproj.CoreCompileInputs.cache
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\obj\Debug\FingerSe.A38F59B5.Up2Date
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\obj\Debug\FingerServices.dll
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\obj\Debug\FingerServices.pdb
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\Dal.dll
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\Employee.dll
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\Employee.pdb
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\Dal.pdb
+C:\Users\13014\source\repos\IFingerPrint\FingerServices\bin\Debug\Dal.dll.config

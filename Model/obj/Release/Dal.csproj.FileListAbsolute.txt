@@ -1,0 +1,10 @@
+C:\Users\13014\source\repos\IFingerPrint\Model\bin\Release\Dal.dll.config
+C:\Users\13014\source\repos\IFingerPrint\Model\bin\Release\Dal.dll
+C:\Users\13014\source\repos\IFingerPrint\Model\bin\Release\Dal.pdb
+C:\Users\13014\source\repos\IFingerPrint\Model\bin\Release\Employee.dll
+C:\Users\13014\source\repos\IFingerPrint\Model\bin\Release\Employee.pdb
+C:\Users\13014\source\repos\IFingerPrint\Model\obj\Release\Dal.csproj.AssemblyReference.cache
+C:\Users\13014\source\repos\IFingerPrint\Model\obj\Release\Dal.csproj.CoreCompileInputs.cache
+C:\Users\13014\source\repos\IFingerPrint\Model\obj\Release\Dal.csproj.Up2Date
+C:\Users\13014\source\repos\IFingerPrint\Model\obj\Release\Dal.dll
+C:\Users\13014\source\repos\IFingerPrint\Model\obj\Release\Dal.pdb

@@ -1,0 +1,6 @@
+C:\Users\13014\source\repos\IFingerPrint\Employee\bin\Release\Employee.dll
+C:\Users\13014\source\repos\IFingerPrint\Employee\bin\Release\Employee.pdb
+C:\Users\13014\source\repos\IFingerPrint\Employee\obj\Release\Employee.csproj.AssemblyReference.cache
+C:\Users\13014\source\repos\IFingerPrint\Employee\obj\Release\Employee.csproj.CoreCompileInputs.cache
+C:\Users\13014\source\repos\IFingerPrint\Employee\obj\Release\Employee.dll
+C:\Users\13014\source\repos\IFingerPrint\Employee\obj\Release\Employee.pdb

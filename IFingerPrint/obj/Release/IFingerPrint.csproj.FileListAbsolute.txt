@@ -1,0 +1,8 @@
+C:\Users\13014\source\repos\IFingerPrint\IFingerPrint\bin\Release\IFingerPrint.dll
+C:\Users\13014\source\repos\IFingerPrint\IFingerPrint\bin\Release\IFingerPrint.pdb
+C:\Users\13014\source\repos\IFingerPrint\IFingerPrint\bin\Release\libzkfpcsharp.dll
+C:\Users\13014\source\repos\IFingerPrint\IFingerPrint\obj\Release\IFingerPrint.csproj.AssemblyReference.cache
+C:\Users\13014\source\repos\IFingerPrint\IFingerPrint\obj\Release\IFingerPrint.csproj.CoreCompileInputs.cache
+C:\Users\13014\source\repos\IFingerPrint\IFingerPrint\obj\Release\IFingerP.FD2206D4.Up2Date
+C:\Users\13014\source\repos\IFingerPrint\IFingerPrint\obj\Release\IFingerPrint.dll
+C:\Users\13014\source\repos\IFingerPrint\IFingerPrint\obj\Release\IFingerPrint.pdb
